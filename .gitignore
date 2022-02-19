@@ -1,0 +1,8 @@
+.prettierrc
+package-lock.json
+package.json
+node_modules
+postcss.config.js
+tailwind.config.js
+tailwind.css
+style.css
